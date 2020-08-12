@@ -1,1 +1,1 @@
-# MiniTodoApp-using-SpringMVC
+# MiniTodoApp using SpringMVC
