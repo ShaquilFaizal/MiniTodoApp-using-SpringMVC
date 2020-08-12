@@ -38,11 +38,10 @@ public class Todo {
 		super();
 	}
 
-	public Todo(Long id, String username, String description, Date targetDate) {
+	public Todo(String username, String desc, Date targetDate, boolean isDone) {
 		super();
-		this.id = id;
 		this.username = username;
-		this.description = description;
+		this.description = desc;
 		this.targetDate = targetDate;
 	}
 	
