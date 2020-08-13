@@ -1,1 +1,1 @@
-# MiniTodoApp using SpringMVC
+# MiniTodoApp using SpringMVC + SpringBoot + Thymeleaf + Bootstrap + Hibernate 
